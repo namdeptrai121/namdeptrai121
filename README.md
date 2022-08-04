@@ -31,8 +31,6 @@
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="48" height="48" />
   <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-networking-network-technology-itim2101-flat-itim2101-1.png" width="48" height="48" />
   <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-malware-computer-itim2101-lineal-color-itim2101.png" width="48" height="48" />
-  <img src="https://image.shutterstock.com/image-vector/book-hardcover-english-flag-dictionary-600w-402760381.jpg" width="48" height="48" />
-  <img src="https://image.shutterstock.com/image-vector/book-hardcover-japanese-flag-dictionary-600w-384811102.jpg" width="48" height="48" />
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> 
   </a>
@@ -42,6 +40,8 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/> 
   </a>
+  <img src="https://image.shutterstock.com/image-vector/book-hardcover-english-flag-dictionary-600w-402760381.jpg" width="48" height="48" />
+  <img src="https://image.shutterstock.com/image-vector/book-hardcover-japanese-flag-dictionary-600w-384811102.jpg" width="48" height="48" />
 </p>
 
 <table style="width:100%;">
