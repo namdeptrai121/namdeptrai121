@@ -22,7 +22,7 @@
   <a href="mailto:duongnam0work@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="mailto:duongnam0work@gmail.com" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/namduong02" alt="Linkedin">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
 </p>
