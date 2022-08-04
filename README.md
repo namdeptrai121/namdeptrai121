@@ -8,9 +8,7 @@
 - 🚩 Do more | No pain, no gain 💪
 
 
-## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TQToan/Github-Profile-Tutorial](https://badges.gitter.im/TQToan/Github-Profile-Tutorial.svg)](https://gitter.im/TQToan/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## 📬 How to reach me 📲
 
 <p align="center">
   <a href="https://www.facebook.com/namduongk2" alt="Facebook">
