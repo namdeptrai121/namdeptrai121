@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👉, Duong Han Nam hereee ♥️</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A fresher Pentester 🕵️ from Vietnam 🇻🇳 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="TQToan" /></p>
+<h3 align="center">A fresher Pentester 🕵️ from Vietnam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="namdeptrai121" /></p>
 
 - 🐧 Student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
 
@@ -27,34 +27,20 @@
 
 ##  👨‍💻 Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/2x/tomcat.png" width="48" height="48" />
-  <img src="https://img.icons8.com/color/344/jira.png" width="48" height="48" />
-  <img src="https://img.icons8.com/glyph-neue/2x/github.png" width="48" height="48" />
-  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="48" height="48" />
+  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-networking-network-technology-itim2101-flat-itim2101-1.png" width="48" height="48" />
+  <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-malware-computer-itim2101-lineal-color-itim2101.png" width="48" height="48" />
+  <img src="https://image.shutterstock.com/image-vector/book-hardcover-english-flag-dictionary-600w-402760381.jpg" width="48" height="48" />
+  <img src="https://image.shutterstock.com/image-vector/book-hardcover-japanese-flag-dictionary-600w-384811102.jpg" width="48" height="48" />
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="48" height="48"/> 
   </a>
 </p>
 
