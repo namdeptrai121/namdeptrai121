@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👉, Duong Han Nam hereee ♥️</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A fresher Pentester from Vietnam </h3>
+<h3 align="center">A fresher Pentester 🕵️ from Vietnam 🇻🇳 </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="TQToan" /></p>
 
 - 🐧 Student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-## Skills:
+##  👨‍💻 Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48"/>
   <img src="https://img.icons8.com/color/2x/tomcat.png" width="48" height="48" />
