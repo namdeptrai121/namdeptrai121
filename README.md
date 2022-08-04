@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thai Quoc Toan</h1>
+<h1 align="center">Hi 👉, Duong Han Nam hereee ♥️</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A fresher developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TQToan" alt="TQToan" /></p>
+<h3 align="center">A fresher Pentester from Vietnam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="TQToan" /></p>
 
-- ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
+- 🐧 Student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
 
-- 🌱 I’m currently learning *Back-End Development*
+- 🚩 Do more | No pain, no gain 💪
 
 
 ## 📫 How to reach me:
@@ -13,14 +13,17 @@
 [![Join the chat at https://gitter.im/TQToan/Github-Profile-Tutorial](https://badges.gitter.im/TQToan/Github-Profile-Tutorial.svg)](https://gitter.im/TQToan/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://www.facebook.com/to.toan.56808" alt="Facebook">
+  <a href="https://www.facebook.com/namduongk2" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TQToan" alt="Github">
+  <a href="https://github.com/namdeptrai121" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:toantq.12c3.bc1819@gmail.com" alt="Email">
+  <a href="mailto:duongnam0work@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+  <a href="mailto:duongnam0work@gmail.com" alt="Linkedin">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
   </a>
 </p>
 
