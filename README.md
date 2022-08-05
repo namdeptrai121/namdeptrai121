@@ -73,7 +73,7 @@
 <h3> Academic Skills for University Success </h3>
 <p align="center">
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg">
-    <pdf alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg" width="300px" />
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg" width="300px" />
   </a>
   <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
     <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg" width="300px" />
