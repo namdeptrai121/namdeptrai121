@@ -29,7 +29,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kali-Linux-282C34?logo=Kali-Linux&logoColor=557C94" alt="Kali Linux logo" title="Kali Linux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Kali%20Linux-282C34?logo=Kali-Linux&logoColor=557C94" alt="Kali Linux logo" title="Kali Linux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows logo" title="Windows" height="25" /></span>
 &nbsp;
