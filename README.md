@@ -154,20 +154,40 @@
   </a>
 </p>
 
-# Honors And Awards:
-<h3>SPRING 2021</h3>
-
-</p>
-<h3>SUMMER 2021</h3>
+# Cisco Certificates:
+<h3> Computer Networking </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg">
-    <img alt="SUMMER 2021" title="SUMMER 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Cisco/Computer%20Networking/Computer%20Network%20Certificate_page-0001.jpg">
+    <img alt="Computer Networking" title="Computer Networking" src="https://github.com/namdeptrai121/Certificate/blob/main/Cisco/Computer%20Networking/Computer%20Network%20Certificate_page-0001.jpg" width="300px" />
   </a>
 </p>
-<h3>FALL 2021</h3>
+<h3> CyberOps Associate </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg">
-    <img alt="FALL 2021" title="FALL 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Cisco/CyberOps%20Associate/CyberOps%20Associate%20certificate_page-0001.jpg">
+    <img alt="CyberOps Associate" title="CyberOps Associate" src="https://github.com/namdeptrai121/Certificate/blob/main/Cisco/CyberOps%20Associate/CyberOps%20Associate%20certificate_page-0001.jpg" width="300px" />
+  </a>
+</p>
+
+# Honors And Awards:
+<h3> Letters of Merit</h3>
+<p align="center">
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/Computer%20Network%20letter_page-0001.jpg">
+    <img alt="Computer Networking" title="Computer Networking" src="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/Computer%20Network%20letter_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/CyberOps%20Associa%20letter_page-0001.jpg">
+    <img alt="CyberOps Associate" title="CyberOps Associate" src="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/CyberOps%20Associa%20letter_page-0001.jpg" width="300px" />
+  </a>
+</p>
+<h3> Student Achievement Awards Spring 2022 (Excellent Student)</h3>
+<p align="center">
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Award/FPT/IMG_1759.jpg">
+    <img alt="Spring 2022" title="Spring 2022" src="https://github.com/namdeptrai121/Certificate/blob/main/Award/FPT/IMG_1759.jpg" width="300px" />
+  </a>
+</p>
+<h3>FPTU Hacking CTF 2022 Competition (9th)</h3>
+<p align="center">
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Award/CTF/IMG_1758.jpg">
+    <img alt="CTF" title="CTF" src="https://github.com/namdeptrai121/Certificate/blob/main/Award/CTF/IMG_1758.jpg" width="300px" />
   </a>
 </p>
 
