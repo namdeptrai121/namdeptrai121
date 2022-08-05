@@ -72,23 +72,23 @@
 # Coursera Certificates:
 <h3> Academic Skills for University Success </h3>
 <p align="center">
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success_page-0001.jpg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success_page-0001.jpg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success_page-0001.jpg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University%20Success_page-0001.jpg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University%20Success_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success_page-0001.jpg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+  </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg">
     <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg" width="300px" />
-  </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg" width="300px" />
   </a>
 </p>
 <h3> Software Development Lifecycle </h3>
