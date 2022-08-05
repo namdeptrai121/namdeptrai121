@@ -64,7 +64,9 @@
 <br>
 <h2 align="center">📑 Popular Quotes 📑</h2>
 <br>
-<div align="center">
+<div align="right">
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=zues&font=default)
 </div>
+
 
