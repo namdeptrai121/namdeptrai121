@@ -15,7 +15,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/C-282C34?logo=javascript&logoColor=00599C" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=00599C" alt="C logo" title="C" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -64,20 +64,17 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/namduongk2" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="namdeptrai121-facebook" />
   </a>
   <a href="https://www.instagram.com/aemon_02" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="namdeptrai121-instagram" />
   </a>
   <a href="www.linkedin.com/in/namduong02" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="namdeptrai121-linkedin" />
   </a>
   
   <a href="mailto:namduong0work@gamil.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="namdeptrai121-email" />
   </a>
 </div>
 
