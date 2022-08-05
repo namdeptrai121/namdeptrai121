@@ -69,10 +69,9 @@
   <a href="https://www.instagram.com/aemon_02" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="namdeptrai121-instagram" />
   </a>
-  <a href="www.linkedin.com/in/namduong02" target="blank">
+  <a href="https://www.linkedin.com/in/namduong02" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="namdeptrai121-linkedin" />
   </a>
-  
   <a href="mailto:namduong0work@gamil.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="namdeptrai121-email" />
   </a>
