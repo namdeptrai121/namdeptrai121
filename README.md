@@ -73,67 +73,90 @@
 <h3> Academic Skills for University Success </h3>
 <p align="center">
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success_page-0001.jpg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success_page-0001.jpg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Communication%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success_page-0001.jpg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Critical%20Thinking%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University%20Success_page-0001.jpg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University%20Success_page-0001.jpg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Information%20%26%20Digital%20Literacy%20for%20University%20Success_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success_page-0001.jpg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Problem-Solving%20Skills%20for%20University%20Success_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg">
-    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg" width="300px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Academic%20Skills%20for%20University%20Success/Academic%20Skills%20for%20University%20Success%20Capstone.jpeg" width="300px" />
   </a>
 </p>
-<h3> Software Development Lifecycle </h3>
+<h3> CertNexus Certified Ethical Emerging Technologist </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/CertNexus%20Certified%20Ethical%20Emerging%20Technologist_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/CertNexus%20Certified%20Ethical%20Emerging%20Technologist_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Turn%20Ethical%20Frameworks%20into%20Actionable%20Steps_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Turn%20Ethical%20Frameworks%20into%20Actionable%20Steps_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Communicate%20Effectively%20about%20Ethical%20Challenges%20in%20Data-Driven%20Technologies_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Communicate%20Effectively%20about%20Ethical%20Challenges%20in%20Data-Driven%20Technologies_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Preparing%20for%20Your%20CertNexus%20Certification%20Exam_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Preparing%20for%20Your%20CertNexus%20Certification%20Exam_page-0001.jpg" width="300px" />
   </a>
 </p>
-<h3> Computer Communication </h3>
+<h3> Python for Everybody </h3>
 <p align="center">
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody_page-0001.jpg">
+    <img alt="SPRING 2021" title="SPRING 2021" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Python%20for%20Everybody_page-0001.jpg" width="300px" />
   </a>
-<a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python_page-0001.jpg">
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data_page-0001.jpg">
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Using%20Python%20to%20Access%20Web%20Data_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures_page-0001.jpg">
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Python%20Data%20Structures_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg">
-    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python_page-0001.jpg">
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python_page-0001.jpg">
+    <img alt="Python for Everybody" title="Python for Everybody" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpehttps://github.com/namdeptrai121/Certificate/blob/main/Coursera/Python%20for%20Everybody/Using%20Databases%20with%20Python_page-0001.jpg" width="300px" />
+  </a>
+<h3> Applied Cryptography </h3>
+<p align="center">
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Applied%20Cryptography_page-0001.jpg">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Applied%20Cryptography_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Cryptographic%20Hash%20and%20Integrity%20Protection_page-0001.jpg">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Cryptographic%20Hash%20and%20Integrity%20Protection_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Asymmetric%20Cryptography%20and%20Key%20Management_page-0001.jpg">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Asymmetric%20Cryptography%20and%20Key%20Management_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Symmetric%20Cryptography_page-0001.jpg">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Symmetric%20Cryptography_page-0001.jpg" width="300px" />
+  </a>
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Cryptography%20and%20Information%20Theory_page-0001.jpg">
+    <img alt="Applied Cryptography" title="Applied Cryptography" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/Applied%20Cryptography/Cryptography%20and%20Information%20Theory_page-0001.jpg" width="300px" />
   </a>
 </p>
 
 # Honors And Awards:
 <h3>SPRING 2021</h3>
-<p align="center">
-  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg">
-    <img alt="SPRING 2021" title="SPRING 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg" width="300px" />
-  </a>
+
 </p>
 <h3>SUMMER 2021</h3>
 <p align="center">
