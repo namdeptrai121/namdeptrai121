@@ -99,8 +99,8 @@
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg">
     <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg" width="300px" />
   </a>
-  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg">
-    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Detect%20and%20Mitigate%20Ethical%20Risks_page-0001.jpg" width="300px" />
+  <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Create%20and%20Lead%20an%20Ethical%20Data-Driven%20Organization_page-0001.jpg">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Create%20and%20Lead%20an%20Ethical%20Data-Driven%20Organization_page-0001.jpg" width="300px" />
   </a>
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies_page-0001.jpg">
     <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://github.com/namdeptrai121/Certificate/blob/main/Coursera/CertNexus%20Certified%20Ethical%20Emerging%20Technologist/Promote%20the%20Ethical%20Use%20of%20Data-Driven%20Technologies_page-0001.jpg" width="300px" />
