@@ -3,6 +3,15 @@
   <img src="svg/namdeptrai121.svg" width="1200" alt="namdeptrai121-official" />
 </a>
 
+<h1 align="center">Hi 👉, Duong Han Nam hereee ♥️</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">A fresher Pentester 🕵️ from Vietnam </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="namdeptrai121" /></p>
+
+- 🐧 Student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
+
+- 🚩 Do more | No pain, no gain 💪
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
