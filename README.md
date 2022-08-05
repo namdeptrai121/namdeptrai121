@@ -169,7 +169,7 @@
 </p>
 
 # Honors And Awards:
-<h3> Letters of Merit</h3>
+<h3> Letters of Merit (from Cisco)</h3>
 <p align="center">
   <a href="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/Computer%20Network%20letter_page-0001.jpg">
     <img alt="Computer Networking" title="Computer Networking" src="https://github.com/namdeptrai121/Certificate/blob/main/Letters%20of%20Merit/Computer%20Network%20letter_page-0001.jpg" width="300px" />
