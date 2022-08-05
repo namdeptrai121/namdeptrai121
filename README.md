@@ -69,4 +69,82 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=zues&font=default)
 </div>
 
+# Certificates:
+<h3> Web Design For Everyone </h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_1.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_2.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_3.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_4.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg">
+    <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE_5.jpeg" width="300px" />
+  </a>
+</p>
+<h3> Software Development Lifecycle </h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_1.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_2.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_3.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://github.com/TQToan/Coursera/blob/main/Software_Development_LifeCycle/CERTIFICATE_4.jpeg" width="300px" />
+  </a>
+</p>
+<h3> Computer Communication </h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg">
+    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE.jpeg" width="300px" />
+  </a>
+<a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg">
+    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_1.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg">
+    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_2.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg">
+    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_3.jpeg" width="300px" />
+  </a>
+  <a href="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg">
+    <img alt="Computer Communication" title="Computer Communication" src="https://github.com/TQToan/Coursera/blob/main/Computer_Comunications/CERTIFICATE_4.jpeg" width="300px" />
+  </a>
+</p>
+
+# Honors And Awards:
+<h3>SPRING 2021</h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg">
+    <img alt="SPRING 2021" title="SPRING 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg" width="300px" />
+  </a>
+</p>
+<h3>SUMMER 2021</h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg">
+    <img alt="SUMMER 2021" title="SUMMER 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SUMMER2021.jpg" width="300px" />
+  </a>
+</p>
+<h3>FALL 2021</h3>
+<p align="center">
+  <a href="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg">
+    <img alt="FALL 2021" title="FALL 2021" src="https://github.com/TQToan/Honors_Awards/blob/main/Excellent_FALL2021.jpg" width="300px" />
+  </a>
+</p>
 
