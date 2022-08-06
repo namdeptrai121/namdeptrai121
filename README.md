@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👉, Duong Han Nam hereee ♥️</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A fresher Pentester 🕵️ from Vietnam </h3>
+<h3 align="center">Pentest Intern 🕵️ from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=namdeptrai121" alt="namdeptrai121" /></p>
 
 - 🐧 Student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
